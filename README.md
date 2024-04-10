@@ -10,22 +10,9 @@
 <br>
 
 <!--- about section start --->
-# < Hola, Mundo />
+# < Hello, World />
 
-Are you looking for a reliable and passionate Python developer to bring your projects to life? Look no further! With over a year of hands-on experience and certified expertise in web scraping, I am here to offer you top-notch solutions.
-
-- **Web Scraping:** Uncover valuable data effortlessly.
-- **Data Extraction:** Streamline the process and gain insights.
-- **Lead Generation:** Fuel your business growth with targeted leads.
-- **Excel and Browser Automation:** Enhance efficiency with automated workflows.
-- **Python Scripting:** Custom solutions tailored to your requirements.
-
-## What Sets Me Apart:
-
-- **Passionate Dedication:** Your project will be approached with enthusiasm and dedication, ensuring exceptional results. ❤️
-- **Energetic Drive:** As a dynamic individual, I bring a vibrant energy to the table, always motivated to deliver excellence. 🚀
-- **Tech Innovation:** Stay ahead with the latest trends and techniques, driven by a genuine love for technology. 💡
-<!--- about section end --->
+Hello my name is Gonzalo Larrica and I'm 21 years old. Welcome to my GitHub profile! I'm glad you stopped by. Feel free to explore my repositories and learn more about my work. 
 
 <br>
 
@@ -34,10 +21,13 @@ Are you looking for a reliable and passionate Python developer to bring your pro
 
 #### Programming Languages:
 <span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </span>
 <span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+</span>
+<span style="margin-right: 15px;">
+	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
 #### Web Technologies:
@@ -46,6 +36,9 @@ Are you looking for a reliable and passionate Python developer to bring your pro
 </span>
 <span style="margin-right: 15px;">
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</span>
+<span style="margin-right: 15px;">
+	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </span>
 
 #### Frameworks:
@@ -66,25 +59,6 @@ Are you looking for a reliable and passionate Python developer to bring your pro
 </span>
 <span style="margin-right: 15px;">
 	<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</span>
-
-
-#### Backend:
-
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
 #### Databases:
@@ -120,9 +94,6 @@ Are you looking for a reliable and passionate Python developer to bring your pro
 <span style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</span>
 <!--/skills --->
 
 <br>
@@ -136,10 +107,10 @@ Let's discuss your unique project needs, whether it's web scraping, data extract
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/goncho09">
 		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/gonzalo-larrica/">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/gonzalo-larrica-60b4b8226/">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:gonzalolarricaV2@gmail.com.com">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:gonzalolarricaV2@gmail.com">
 		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
 	</a>
 </section>
