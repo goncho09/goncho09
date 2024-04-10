@@ -1,11 +1,3 @@
-<!--------Dagim  Alemu github profile @progdagi------------>
-<!--- header start --->
-<img src="https://github.com/progdagi/progdagi/assets/142475159/957577bd-3877-47de-9d9d-9b70c5a6b317" height="21px" style="width: 100%;">
-<!--- end start --->
-
-<!--- hero section start --->
-<img src="https://github.com/progdagi/progdagi/assets/142475159/8bad9668-b595-4f07-9add-eb600250f287">
-<!--- hero section end --->
 
 <br>
 
@@ -13,8 +5,6 @@
 # < Hello, World />
 
 Hello my name is Gonzalo Larrica and I'm 21 years old. Welcome to my GitHub profile! I'm glad you stopped by. Feel free to explore my repositories and learn more about my work. 
-
-<br>
 
 <!---- skills ---->
 ## Skills:
@@ -99,9 +89,7 @@ Hello my name is Gonzalo Larrica and I'm 21 years old. Welcome to my GitHub prof
 <br>
 
 <!--- contact list section start --->
-## Contact Me:
-
-Let's discuss your unique project needs, whether it's web scraping, data extraction, or automation. I am ready to collaborate and turn your vision into a reality. 🌟
+## Contact Me :
 
 <section align="center" style="margin-left: 10px; margin-bottom: 27px;">
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/goncho09">
