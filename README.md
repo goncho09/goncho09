@@ -17,7 +17,7 @@ Hello my name is Gonzalo Larrica and I'm 21 years old. Welcome to my GitHub prof
 	<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </span>
 <span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
 #### Web Technologies:
@@ -32,9 +32,6 @@ Hello my name is Gonzalo Larrica and I'm 21 years old. Welcome to my GitHub prof
 </span>
 
 #### Frameworks:
-<span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-</span>
 <span style="margin-right: 15px;">
 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 </span>
@@ -95,7 +92,7 @@ Hello my name is Gonzalo Larrica and I'm 21 years old. Welcome to my GitHub prof
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/goncho09">
 		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
 	</a>
-	<a style="margin-left: 20px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/gonzalo-larrica-60b4b8226/">
+	<a style="margin-left: 50px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/gonzalo-larrica-60b4b8226/">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
 </section>
